@@ -11,6 +11,13 @@
         "MSc Student"
       ]
     },
+     {
+      "name": "Mosh Levy",
+      "startYear": 2022,
+      "advisors": [
+        "Yoav Goldberg"
+      ],
+      }
     {
       "name": "Avi Caciularu",
       "startYear": 2019,
